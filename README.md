@@ -51,7 +51,7 @@ A lot of the heavy work was made by [Stephan Raabe](https://github.com/mylinuxfo
 
 
 # Installation
-1. Install depenedcies with your preffered AUR helper.
+1. Install dependencies with your preffered AUR helper.
 2. Clone the repository
 3. Move the .config, .themes, and wallpaper into your home directory
 4. Install the listed fonts
