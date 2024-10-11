@@ -129,7 +129,7 @@ check_nvidia() {
     read -p "Do you want to apply NVIDIA-specific configurations? (y/n) " answer
     case $answer in
       [Yy]* ) configure_nvidia;;
-      [Nn]* ) echo "Skipping NVIDIA configuration.";;
+      [Nn]* ) echo "Skipping NVIDIA configuration. Your Hyprland may be unstable/unusable.";;
       * ) echo "Please answer yes or no.";;
     esac
   else
